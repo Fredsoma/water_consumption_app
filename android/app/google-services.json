@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080525579083",
+    "project_id": "water-consumption-app-7a8fe",
+    "storage_bucket": "water-consumption-app-7a8fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080525579083:android:817bad02e80aff1c223ece",
+        "android_client_info": {
+          "package_name": "com.example.water_consumption_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc0TLQyMRii7MiekOJKxctJH7YChukrHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
